@@ -27,14 +27,16 @@ Hi, I'm Hareesh—a results-driven Data Engineer with over 10 years of experienc
 
 ### Database Engineer | Wizards of the Coast, Renton, WA | 2016 - 2017
 - Tuned complex SQL queries and built automation scripts for database operations.
+- Conducted performance tuning, backup strategies, and deadlock resolution using Server Side Profiler traces, ensuring robust database maintenance and operational stability for business applications.
 
 ### Database Engineer/SQL Server DBA | Microsoft, Redmond, WA | 2013 - 2016
 - Tuned complex SQL queries and built automation scripts for database operations.
- – July 2016 to Nov 2016
+- Developed and maintained ETL processes to support data integration for SQL Server Reporting Services (SSRS), enabling efficient weekly 24/7 production support and report generation.
 
 ### SQL Server DBA | Redbox, Chicago, IL | 2011 - 2013
-- Tuned complex SQL queries and built automation scripts for database operations.
- – July 2016 to Nov 2016
+- Designed and implemented database mirroring and transactional replication for very large databases (VLDBs)
+- Ensured high availability and disaster recovery while optimizing performance
+
 ---
 
 ## Featured Projects
