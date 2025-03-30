@@ -1,1 +1,4 @@
-
+# add the following to _config.yml file
+title: HAREESH GOTTIPATI
+theme: jeykll-theme-minimal
+show_downloads: true
