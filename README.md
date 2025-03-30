@@ -31,9 +31,11 @@ Hi, I'm Hareesh—a results-driven Data Engineer with over 10 years of experienc
 ---
 
 ## Featured Projects
-1. **[AWS ETL Pipeline for Bookings Data](#)**  
-   - Built a scalable ETL pipeline using AWS S3, Lambda, and Glue to process large-scale booking data.
-   - [View Code/Details](projects/etl-pipeline-aws/)
+1. **[ChargeNear](#)**  
+   - Built an open-source map for hotels and Airbnb hosts to display nearby EV chargers.
+   - Built with Mapbox GL JS and the Open Charge Map API.
+   - **Tools**: AWS, JavaScript, HTML, CSS, API Integration
+   - [View Code/Details](https://github.com/hgottipati/ChargeNear)
 
 2. **[Spark Optimization for Large Datasets](#)**  
    - Optimized Spark jobs to handle massive datasets, cutting processing costs by 20%.
