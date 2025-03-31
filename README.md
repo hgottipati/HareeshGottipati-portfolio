@@ -29,12 +29,12 @@ Hi, I’m Hareesh—a results-driven Data Engineer with over 10 years of experie
 - Collaborated with product managers and tax teams to align data solutions with business needs, delivering actionable insights under tight deadline
 
 
-### Data Engineer | Walt Disney Co., Seattle, WA | 2017 - 2018
+### Data Engineer | Walt Disney Co., Seattle, WA | 2016 - 2018
 - Developed Python ETL pipelines in AWS Redshift and Hadoop for real-time analytics.
 - Optimized Spark/Hive jobs, reducing processing costs by 20%.
 - Automated web scraping workflows for competitive analysis.
 
-### Database Engineer | Wizards of the Coast, Renton, WA | 2016 - 2017
+### Database Engineer | Wizards of the Coast, Renton, WA | 2016
 - Tuned complex SQL queries and built automation scripts for database operations.
 - Conducted performance tuning, backup strategies, and deadlock resolution using Server Side Profiler traces, ensuring robust database maintenance and operational stability for business applications.
 
