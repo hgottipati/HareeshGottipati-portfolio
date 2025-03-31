@@ -41,7 +41,7 @@ Hi, I’m Hareesh—a results-driven Data Engineer with over 10 years of experie
 ---
 
 ## Featured Projects
-1. **[ChargeNear](#)**  
+1. **ChargeNear**  
    - Built an open-source map for hotels and Airbnb hosts to display nearby EV chargers.
    - Built with Mapbox GL JS and the Open Charge Map API.
    - Tools: AWS, JavaScript, HTML, CSS, API Integration
