@@ -1,6 +1,6 @@
 # Hareesh Gottipati - Data Engineer Portfolio
 
-Hi, I'm Hareesh—a results-driven Data Engineer with over 10 years of experience designing, building, and optimizing data pipelines using SQL, Python, and AWS cloud technologies. I specialize in big data ecosystems (Hive, Spark, Hadoop), end-to-end ETL processes, and delivering scalable, high-performance solutions. Passionate about automation, cloud infrastructure, and driving actionable insights.
+Hi, I’m Hareesh—a results-driven Data Engineer with over 10 years of experience designing, building, and optimizing data pipelines using SQL, Python, and AWS cloud technologies. I specialize in big data ecosystems (Hive, Spark, Hadoop), end-to-end ETL processes, and delivering scalable, high-performance solutions. Passionate about automation, cloud infrastructure, AI-driven data workflows, and driving actionable insights.
 
 📧 [hg.datahive@gmail.com](mailto:hg.datahive@gmail.com) | 🌐 [dataginger.com](http://dataginger.com/) | 🔗 [LinkedIn](https://www.linkedin.com/in/hareeshgottipati/) | 📞 (425) 301-5595
 
@@ -11,6 +11,7 @@ Hi, I'm Hareesh—a results-driven Data Engineer with over 10 years of experienc
 - **Data Processing**: Hive, Spark, ETL Pipelines, SQL Server, MySQL, Redshift, DynamoDB, PostgreSQL
 - **Cloud & DevOps**: AWS (S3, EMR, Lambda, Glue, CloudFormation, Athena), Linux, CI/CD (Git, Jenkins, Airflow)
 - **Tools & Frameworks**: Hadoop, Kafka, Terraform, Docker, Tableau, Databricks, Snowflake
+- **AI & Machine Learning**: AWS AI/ML services (SageMaker, Bedrock, Comprehend), AI-driven data pipelines
 
 ---
 
@@ -46,13 +47,17 @@ Hi, I'm Hareesh—a results-driven Data Engineer with over 10 years of experienc
    - Tools: AWS, JavaScript, HTML, CSS, API Integration
    - [View Code/Details](https://github.com/hgottipati/ChargeNear)
 
-2. **[Spark Optimization for Large Datasets](#)**  
-   - Optimized Spark jobs to handle massive datasets, cutting processing costs by 20%.
-   - [View Code/Details](projects/spark-optimization/)
+2. **Spark Optimization for Large Datasets**  
+   - Optimized Spark jobs to handle massive datasets, cutting processing costs by 20%.  
+   - [View Repository](https://github.com/hareeshgottipati/spark-optimization)  
 
-3. **[Python Automation for Data Ingestion](#)**  
-   - Automated data ingestion from APIs and S3 using Python, streamlining reporting workflows.
-   - [View Code/Details](projects/python-automation/)
+3. **AI-Driven Data Workflow with AWS SageMaker**  
+   - Leveraged AWS SageMaker to integrate AI models into data pipelines, enabling predictive analytics for booking trends and improving decision-making processes.  
+   - [View Repository](https://github.com/hareeshgottipati/ai-data-workflow)  
+
+4. **Python Automation for Data Ingestion**  
+   - Automated data ingestion from APIs and S3 using Python, streamlining reporting workflows.  
+   - [View Repository](https://github.com/hareeshgottipati/python-automation)
 
 ---
 
