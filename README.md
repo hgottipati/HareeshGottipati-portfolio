@@ -82,8 +82,6 @@ Hi, I’m Hareesh—a results-driven Data Engineer with over 10 years of experie
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hgottipati) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hg.datahive@gmail.com) 
 
----
-[![](https://visitcount.itsvg.in/api?id=hgottipati&icon=0&color=3)](https://visitcount.itsvg.in)
 
 ## Let’s Connect!
 Interested in collaborating or hiring a Data Engineer? Reach out via [email](mailto:hg.datahive@gmail.com) or [LinkedIn](https://www.linkedin.com/in/hareeshgottipati/).
