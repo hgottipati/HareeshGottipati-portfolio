@@ -17,9 +17,11 @@ Hi, I’m Hareesh—a results-driven Data Engineer with over 10 years of experie
 
 ## Professional Experience
 ### Data Engineer | Expedia Group, Seattle, WA | 2018 - Present
-- Architected end-to-end AWS data pipelines processing millions of daily bookings, reducing processing time by 30%.
+- Architected and owned end-to-end data pipelines in AWS for processing millions of daily bookings across Expedia, ensuring low-latency data flow for tax calculations and financial reporting.
 - Automated infrastructure with CloudFormation and CI/CD pipelines for seamless deployments.
-- Built Python/SQL scripts for data ingestion, cutting report generation time by 25%.
+- Built Python/SQL scripts for data ingestion from diverse sources (S3, APIs, external services), cutting report generation time by 25%.
+- Collaborated with product managers and tax teams to align data solutions with business needs, delivering actionable insights under tight deadline
+
 
 ### Data Engineer | Walt Disney Co., Seattle, WA | 2017 - 2018
 - Developed Python ETL pipelines in AWS Redshift and Hadoop for real-time analytics.
