@@ -77,7 +77,6 @@ Hi, I’m Hareesh—a results-driven Data Engineer with over 10 years of experie
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hgottipati&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hgottipati&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hgottipati&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
@@ -89,7 +88,6 @@ Hi, I’m Hareesh—a results-driven Data Engineer with over 10 years of experie
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hgottipati&icon=0&color=3)](https://visitcount.itsvg.in)
-
 
 ## Let’s Connect!
 Interested in collaborating or hiring a Data Engineer? Reach out via [email](mailto:hg.datahive@gmail.com) or [LinkedIn](https://www.linkedin.com/in/hareeshgottipati/).
