@@ -2,7 +2,9 @@
 
 Hi, I’m Hareesh—a results-driven Data Engineer with over 10 years of experience designing, building, and optimizing data pipelines using SQL, Python, and AWS cloud technologies. I specialize in big data ecosystems (Hive, Spark, Hadoop), end-to-end ETL processes, and delivering scalable, high-performance solutions. Passionate about automation, cloud infrastructure, AI-driven data workflows, and driving actionable insights.
 
-   🌐 [dataginger.com](http://dataginger.com/) |  📞 (425) 301-5595 | [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hgottipati) | [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hg.datahive@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B6?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hareeshgottipati/)
+🌐 [dataginger.com](http://dataginger.com/) 
+[![dataginger.com](https://img.shields.io/badge/:badgeContent)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hgottipati) | [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hg.datahive@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B6?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hareeshgottipati/)
    
 ---
 
@@ -86,4 +88,3 @@ Hi, I’m Hareesh—a results-driven Data Engineer with over 10 years of experie
 Interested in collaborating or hiring a Data Engineer? Reach out via -
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hgottipati) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hg.datahive@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B6?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hareeshgottipati/)
-| 📞 (425) 301-5595 
