@@ -78,8 +78,6 @@ Hi, I’m Hareesh—a results-driven Data Engineer with over 10 years of experie
 ![](https://nirzak-streak-stats.vercel.app/?user=hgottipati&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hgottipati&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hgottipati&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hgottipati) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hg.datahive@gmail.com) 
