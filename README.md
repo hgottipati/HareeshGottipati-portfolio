@@ -80,8 +80,7 @@ Hi, I’m Hareesh—a results-driven Data Engineer with over 10 years of experie
 ---
 
 ## Let’s Connect!
-Interested in collaborating or hiring a Data Engineer? Reach out via [email](mailto:hg.datahive@gmail.com) or [LinkedIn](https://www.linkedin.com/in/hareeshgottipati/).
+Interested in collaborating or hiring a Data Engineer? Reach out via -
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hgottipati) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hg.datahive@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B6?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hareeshgottipati/)
-🌐 [dataginger.com](http://dataginger.com/) | 📞 (425) 301-5595 
-
+🌐 [dataginger.com](http://dataginger.com/) |[email](mailto:hg.datahive@gmail.com)   📞 (425) 301-5595 
